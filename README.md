@@ -1,2 +1,2 @@
 # CR
-Compute Resources (CR) @NORGREN-AUTOMATION - @IMS
+Compute Resources (CR) - Cross-Platform Building Blocks
