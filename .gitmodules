@@ -1,0 +1,16 @@
+[submodule "Lib_GripperAPI"]
+	path = Lib_GripperAPI
+	url = https://github.com/NORGREN-AUTOMATION/Lib_GripperAPI.git
+	branch = main
+[submodule "Lib_GripperAPI_Tests"]
+	path = Lib_GripperAPI_Tests
+	url = https://github.com/NORGREN-AUTOMATION/Lib_GripperAPI_Tests.git
+	branch = main
+[submodule "Lib_GripperFW"]
+	path = Lib_GripperFW
+	url = https://github.com/NORGREN-AUTOMATION/Lib_GripperFW.git
+	branch = main
+[submodule "Lib_GripperFW_Tests"]
+	path = Lib_GripperFW_Tests
+	url = https://github.com/NORGREN-AUTOMATION/Lib_GripperFW_Tests.git
+	branch = main
