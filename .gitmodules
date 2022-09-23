@@ -14,3 +14,27 @@
 	path = Lib_GripperFW_Tests
 	url = https://github.com/NORGREN-AUTOMATION/Lib_GripperFW_Tests.git
 	branch = main
+[submodule "applicationPlatforms/Ubuntu"]
+	path = applicationPlatforms/Ubuntu
+	url = https://github.com/InMechaSol/Ubuntu.git
+	branch = main
+[submodule "applicationPlatforms/Teensy"]
+	path = applicationPlatforms/Teensy
+	url = https://github.com/InMechaSol/Teensy.git
+	branch = main
+[submodule "ccNOos"]
+	path = ccNOos
+	url = https://github.com/InMechaSol/ccNOos.git
+	branch = main
+[submodule "ccNOos_Tests"]
+	path = ccNOos_Tests
+	url = https://github.com/InMechaSol/ccNOos_Tests.git
+	branch = main
+[submodule "ccOS_Tests"]
+	path = ccOS_Tests
+	url = https://github.com/InMechaSol/ccOS_Tests.git
+	branch = main
+[submodule "ccOS"]
+	path = ccOS
+	url = https://github.com/InMechaSol/ccOS.git
+	branch = main
