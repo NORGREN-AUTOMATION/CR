@@ -38,3 +38,7 @@
 	path = ccOS
 	url = https://github.com/InMechaSol/ccOS.git
 	branch = main
+[submodule "applicationPlatforms/WIN32"]
+	path = applicationPlatforms/WIN32
+	url = https://github.com/InMechaSol/WIN32.git
+	branch = ccGripper
