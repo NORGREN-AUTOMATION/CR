@@ -42,3 +42,7 @@
 	path = applicationPlatforms/WIN32
 	url = https://github.com/InMechaSol/WIN32.git
 	branch = ccGripper
+[submodule "dotNET"]
+	path = dotNET
+	url = https://github.com/InMechaSol/dotNET.git
+	branch = main
