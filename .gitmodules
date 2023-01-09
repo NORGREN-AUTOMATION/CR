@@ -46,3 +46,7 @@
 	path = dotNET
 	url = https://github.com/InMechaSol/dotNET.git
 	branch = main
+[submodule "Qt"]
+	path = Qt
+	url = https://github.com/InMechaSol/Qt.git
+	branch = main
